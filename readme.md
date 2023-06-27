@@ -4,7 +4,7 @@
 ## Summary
 | Code      | Name        | Published Article |  Deployed App|
 |-----------|-------------|:-------------:|:-------------:|
-|P4     | ML Embedding - Streamlit  |  [](/) |               |
+|P4     | ML Embedding - Streamlit  | https://www.linkedin.com/pulse/ml-embedding-project-gideon-dadzie [](/) |               |
 --------------------------------------------------
 
 ## Project Description
