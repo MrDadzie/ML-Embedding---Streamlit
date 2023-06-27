@@ -1,5 +1,5 @@
 # P4 - ML Embedding (Streamlit) 
-*In this project, an ML classifier (Random Forest Classifier from  the previous project LP3) is embedded on an app using gradio library on python. Users can interact with the application to make prediction on whether a telco customer will churn or not.
+*In this project, an ML classifier (Random Forest Classifier from  the previous project LP3) is embedded on an app using streamlit library on python. Users can interact with the application to make prediction on whether a telco customer will churn or not.
 
 ## Summary
 | Code      | Name        | Published Article |  Deployed App|
