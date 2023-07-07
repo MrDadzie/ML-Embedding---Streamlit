@@ -4,7 +4,7 @@
 ## Summary
 | Code      | Name        | Published Article |  Deployed App|
 |-----------|-------------|:-------------:|:-------------:|
-|P4     | ML Embedding - Streamlit  | https://www.linkedin.com/pulse/ml-embedding-project-gideon-dadzie [](/) |     https://deeeteeee01-sales-prediction-app.hf.space/          |
+|P4     | ML Embedding - Streamlit  | https://www.linkedin.com/pulse/ml-embedding-project-gideon-dadzie [](/) |     https://huggingface.co/spaces/MrDdz/Sales_Prediction_App [](/)          |
 --------------------------------------------------
 
 ## Project Description
